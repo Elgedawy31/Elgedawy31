@@ -62,6 +62,7 @@ Knowledgeable in DevOps practices, including Linux, Docker, Kubernetes, and CI/C
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
+| **Nordic Nile** | Corporate website for a global trade and logistics company with a modern, premium UI and responsive design. | Next.js, Tailwind CSS, Responsive Design | [Live](https://nordicnile.com) |
 | **AutoPower** | Full-stack automotive services and car solutions platform with modern responsive design. | Next.js, TypeScript, Express.js, MongoDB | [Live](http://autopower.sa/) |
 | **3amaly Platform** | Modern Arabic learning platform for discovering skills and hands-on courses with a clean, engaging UI. | Next.js, Tailwind CSS, Responsive Design | [Live](https://3amaly.vercel.app/) |
 | **Yafi Landing Page** | Professional and fully responsive landing page optimized for SEO and strong online presence. | Next.js, Responsive Design, SEO | [Live](http://yafi.sa/) |
